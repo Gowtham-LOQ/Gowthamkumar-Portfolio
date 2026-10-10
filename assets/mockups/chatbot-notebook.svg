@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="654" viewBox="0 0 1200 654" fill="none">
+  <rect width="1200" height="654" rx="24" fill="#171526"/>
+  <rect x="1" y="1" width="1198" height="652" rx="23" stroke="#8B6CF0" stroke-opacity=".28" stroke-width="2"/>
+  <rect x="48" y="44" width="1104" height="566" rx="18" fill="#11101C"/>
+  <path d="M48 62a18 18 0 0 1 18-18h1068a18 18 0 0 1 18 18v42H48V62Z" fill="#211D35"/>
+  <circle cx="78" cy="73" r="7" fill="#F07891"/>
+  <circle cx="104" cy="73" r="7" fill="#E8BE73"/>
+  <circle cx="130" cy="73" r="7" fill="#8B6CF0"/>
+  <rect x="82" y="137" width="260" height="428" rx="12" fill="#171526"/>
+  <text x="108" y="178" fill="#A9A7BD" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">INTENT ANALYSIS</text>
+  <text x="108" y="231" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="20" font-weight="700">Conversation</text>
+  <rect x="108" y="253" width="195" height="59" rx="12" fill="#28223E"/>
+  <text x="126" y="278" fill="#E9E4FF" font-family="Arial,sans-serif" font-size="14">Hi, can you help me</text>
+  <text x="126" y="299" fill="#E9E4FF" font-family="Arial,sans-serif" font-size="14">find my next lesson?</text>
+  <rect x="143" y="330" width="171" height="79" rx="12" fill="#5B3FD1"/>
+  <text x="160" y="358" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="14">Sure, I can help</text>
+  <text x="160" y="380" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="14">with that.</text>
+  <rect x="108" y="434" width="204" height="59" rx="12" fill="#28223E"/>
+  <text x="126" y="459" fill="#E9E4FF" font-family="Arial,sans-serif" font-size="14">Show my current</text>
+  <text x="126" y="480" fill="#E9E4FF" font-family="Arial,sans-serif" font-size="14">course progress.</text>
+  <rect x="386" y="137" width="719" height="198" rx="12" fill="#171526"/>
+  <text x="418" y="179" fill="#A9A7BD" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">DETECTED INTENT</text>
+  <text x="418" y="232" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="31" font-weight="700">View learning progress</text>
+  <rect x="418" y="256" width="171" height="37" rx="18" fill="#30264E"/>
+  <text x="439" y="280" fill="#C8BBFF" font-family="Arial,sans-serif" font-size="14">intent: progress_query</text>
+  <rect x="386" y="359" width="719" height="206" rx="12" fill="#171526"/>
+  <text x="418" y="401" fill="#A9A7BD" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">CONTEXT MATCH</text>
+  <rect x="418" y="426" width="654" height="14" rx="7" fill="#302B40"/>
+  <rect x="418" y="426" width="510" height="14" rx="7" fill="#8B6CF0"/>
+  <text x="418" y="475" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="17" font-weight="700">User context recognized</text>
+  <text x="418" y="507" fill="#A9A7BD" font-family="Arial,sans-serif" font-size="14">Illustrative chatbot UI placeholder</text>
+</svg>

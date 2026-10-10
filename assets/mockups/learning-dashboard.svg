@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="654" viewBox="0 0 1200 654" fill="none">
+  <rect width="1200" height="654" rx="24" fill="#171526"/>
+  <rect x="1" y="1" width="1198" height="652" rx="23" stroke="#8B6CF0" stroke-opacity=".28" stroke-width="2"/>
+  <rect x="48" y="44" width="1104" height="566" rx="18" fill="#11101C"/>
+  <rect x="48" y="44" width="210" height="566" rx="18" fill="#171526"/>
+  <text x="80" y="93" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="21" font-weight="700">Learnspace</text>
+  <rect x="76" y="127" width="156" height="39" rx="10" fill="#342A52"/>
+  <text x="95" y="152" fill="#D7CCFF" font-family="Arial,sans-serif" font-size="14">Overview</text>
+  <text x="95" y="207" fill="#A9A7BD" font-family="Arial,sans-serif" font-size="14">My courses</text>
+  <text x="95" y="251" fill="#A9A7BD" font-family="Arial,sans-serif" font-size="14">Learning path</text>
+  <text x="95" y="295" fill="#A9A7BD" font-family="Arial,sans-serif" font-size="14">Resources</text>
+  <text x="294" y="105" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="28" font-weight="700">Learning dashboard</text>
+  <text x="294" y="134" fill="#A9A7BD" font-family="Arial,sans-serif" font-size="15">A central place for courses and progress</text>
+  <rect x="294" y="166" width="390" height="170" rx="14" fill="#171526"/>
+  <text x="318" y="202" fill="#A9A7BD" font-family="Arial,sans-serif" font-size="14">COURSE PROGRESS</text>
+  <text x="318" y="251" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="25" font-weight="700">Data fundamentals</text>
+  <rect x="318" y="277" width="340" height="12" rx="6" fill="#302B40"/>
+  <rect x="318" y="277" width="222" height="12" rx="6" fill="#8B6CF0"/>
+  <text x="318" y="315" fill="#A9A7BD" font-family="Arial,sans-serif" font-size="13">Progress overview</text>
+  <rect x="708" y="166" width="390" height="170" rx="14" fill="#171526"/>
+  <text x="732" y="202" fill="#A9A7BD" font-family="Arial,sans-serif" font-size="14">UP NEXT</text>
+  <text x="732" y="251" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="24" font-weight="700">Working with data</text>
+  <text x="732" y="283" fill="#A9A7BD" font-family="Arial,sans-serif" font-size="14">Course module</text>
+  <rect x="732" y="299" width="120" height="25" rx="12" fill="#30264E"/>
+  <text x="751" y="317" fill="#C8BBFF" font-family="Arial,sans-serif" font-size="12">Continue learning</text>
+  <rect x="294" y="360" width="804" height="205" rx="14" fill="#171526"/>
+  <text x="318" y="402" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="18" font-weight="700">Your learning space</text>
+  <rect x="318" y="425" width="222" height="110" rx="10" fill="#211D35"/>
+  <rect x="556" y="425" width="222" height="110" rx="10" fill="#211D35"/>
+  <rect x="794" y="425" width="280" height="110" rx="10" fill="#211D35"/>
+  <circle cx="352" cy="459" r="13" fill="#8B6CF0"/>
+  <circle cx="590" cy="459" r="13" fill="#A18AF5"/>
+  <circle cx="828" cy="459" r="13" fill="#5B3FD1"/>
+  <text x="375" y="464" fill="#E9E4FF" font-family="Arial,sans-serif" font-size="13">Course materials</text>
+  <text x="613" y="464" fill="#E9E4FF" font-family="Arial,sans-serif" font-size="13">Progress tracking</text>
+  <text x="851" y="464" fill="#E9E4FF" font-family="Arial,sans-serif" font-size="13">Illustrative dashboard placeholder</text>
+</svg>
